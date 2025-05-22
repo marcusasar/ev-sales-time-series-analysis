@@ -1,1 +1,2 @@
-# ev-sales-time-series-analysis
+# ✅Project Title
+  Global EV sales Trend Analysis Using SQL
