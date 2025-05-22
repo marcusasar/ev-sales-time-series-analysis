@@ -17,4 +17,4 @@ To analyze global EV sales over time and answer key time series questions such a
 
 - SQL (PostgreSQL)
 - Git & GitHub for version control
-- CSV data (manually cleaned and filtered)
+- CSV data (cleaned and filtered using SQL)
