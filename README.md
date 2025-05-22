@@ -7,6 +7,7 @@ This project performs a time series analysis of global electric vehicle (EV) sal
 
 To analyze global EV sales over time and answer key time series questions such as:
 - How have EV sales changed year by year?
+- How have global electric vehicle (EV) sales evolved over the last decade, and what long-term trends can we observe?
 - Which years experienced the highest absolute growth?
 - Which years experienced the highest percentage growth?
 - How have cumulative global sales evolved over time?
