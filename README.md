@@ -20,3 +20,11 @@ To analyze global EV sales over time and answer key time series questions such a
 - **PostgreSQL:** The chosen database management system, ideal for handling the EV sales data.
 - **Excel:** For creating visuals.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
+
+## 🧪 How to Use
+
+1. Create the table using `01_create_table.sql`
+2. Insert data from `ev_sales_world.csv` using `02_insert_data.sql`
+3. Run the analysis queries in order from the `sql/` folder
+4. Review findings in `analysis/ev_sales_growth_insights.md`
