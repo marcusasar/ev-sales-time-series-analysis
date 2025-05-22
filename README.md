@@ -37,3 +37,8 @@ For example:
 - EV sales doubled between 2020 and 2021
 - The highest absolute growth occurred in 2021 (+3.5M units)
 - Total global sales surpassed 10M in 2022
+
+
+## 🤝 Acknowledgments
+
+Thanks to the International Energy Agency (IEA) for the dataset.
