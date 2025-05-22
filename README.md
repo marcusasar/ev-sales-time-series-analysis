@@ -11,3 +11,10 @@ To analyze global EV sales over time and answer key time series questions such a
 - Which years experienced the highest percentage growth?
 - How have cumulative global sales evolved over time?
 - What are the top 3 years for EV market expansion?
+
+
+## 🛠️ Tools Used
+
+- SQL (PostgreSQL)
+- Git & GitHub for version control
+- CSV data (manually cleaned and filtered)
