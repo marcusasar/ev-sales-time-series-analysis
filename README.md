@@ -15,6 +15,8 @@ To analyze global EV sales over time and answer key time series questions such a
 
 ## 🛠️ Tools Used
 
-- SQL (PostgreSQL)
-- Git & GitHub for version control
-- CSV data (cleaned and filtered using SQL)
+
+**SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
+- **PostgreSQL:** The chosen database management system, ideal for handling the EV sales data.
+- **Excel:** For creating visuals.
+- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
