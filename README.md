@@ -31,11 +31,12 @@ To analyze global EV sales over time and answer key time series questions such a
 
 ## 📈 Summary of Findings
 
-📝 *[Add key takeaways here after completing your analysis.]*  
-For example:
+📝 *[Key takeaways ]*  
+
 - EV sales doubled between 2020 and 2021
 - The highest absolute growth occurred in 2021 (+3.5M units)
 - Total global sales surpassed 10M in 2022
+- The highest growth percentage occured between 2010-11 (555.4%)
 
 
 ## 🤝 Acknowledgments
