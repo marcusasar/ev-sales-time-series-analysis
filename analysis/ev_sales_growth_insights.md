@@ -43,6 +43,6 @@ No single year led in both metrics. In terms of total units sold, 2024 experienc
 
 These spikes can be attributed to several factors:
 
-2011: Early adoption phase, with growing public awareness of environmental issues and the introduction of initial government incentives.
+- 2011: Early adoption phase, with growing public awareness of environmental issues and the introduction of initial government incentives.
 
-2024: Mature market growth, driven by broader availability of EV models, improved battery technology, expanded charging infrastructure, and stronger regulatory support globally.
+- 2024: Mature market growth, driven by broader availability of EV models, improved battery technology, expanded charging infrastructure, and stronger regulatory support globally.
