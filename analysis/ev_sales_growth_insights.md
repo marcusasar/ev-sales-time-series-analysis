@@ -41,7 +41,7 @@ Advancements in EV technology and infrastructure
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
 💡**Insight:**  
-No single year led in both metrics. In terms of total units sold, 2024 experienced the largest increase, reflecting a continued expansion of the global EV market. However, 2011 saw the highest percentage growth, at over 550%, which was likely due to the market's early stage of adoption where even small increases in sales volume represented large relative growth.
+No single year led in both metrics. In terms of total units sold, 2023 experienced the largest increase, reflecting a continued expansion of the global EV market. However, 2011 saw the highest percentage growth, at over 550%, which was likely due to the market's early stage of adoption where even small increases in sales volume represented large relative growth.
 
 These spikes can be attributed to several factors:
 
