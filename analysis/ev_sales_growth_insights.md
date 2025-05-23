@@ -1,4 +1,4 @@
-## ☕ Coffee Shop Sales Analysis
+## ☕ Electric Vehicles Sales Analysis
 
 ### 🔍 Key Insights
 - **Top Product**: Latte accounts for 35% of total sales.
