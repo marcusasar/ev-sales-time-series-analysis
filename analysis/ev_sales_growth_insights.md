@@ -30,7 +30,7 @@ This pattern reflects a strong long-term trend in EV adoption, likely driven by:
 Increased public awareness of environmental concerns
 Advancements in EV technology and infrastructure
 
-## 4. Global EV Sales (2010–2023)
+## 4. Sales and Yearly Change (Absolute and %)
 
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
