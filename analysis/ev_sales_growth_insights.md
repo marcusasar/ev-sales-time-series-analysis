@@ -14,7 +14,7 @@ This pattern reflects a strong long-term trend in EV adoption, likely driven by:
 
 ---
 
-## 2. Annual Growth Trends in Global EV Sales
+## 2. Global EV Sales Growth %
 
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
@@ -24,7 +24,7 @@ This pattern indicates that EV adoption accelerated rapidly during the early sta
 
 ---
 
-## 3. Cumulative Gloabal EV Sales YTD
+## 3. Cumulative Global EV Sales YTD
 
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
@@ -36,7 +36,7 @@ Advancements in EV technology and infrastructure
 
 ---
 
-## 4. Sales and Yearly Change (Absolute and %)
+## 4. EV Sales Peak Years by Units and Growth Rate %
 
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
