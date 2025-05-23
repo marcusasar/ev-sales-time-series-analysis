@@ -1,4 +1,4 @@
-# 📊 EV Sales Time Series Analysis (Global Focus)
+## 📊 EV Sales Time Series Analysis (Global Focus)
 
 ### 🔍 Key Insights
 - **Top Product**: Latte accounts for 35% of total sales.
