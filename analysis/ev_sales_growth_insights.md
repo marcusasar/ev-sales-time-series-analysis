@@ -18,6 +18,8 @@ Advancements in EV technology and infrastructure
 
 💡**Insight:**  
 The annual growth rate of global electric vehicle (EV) sales peaked dramatically between **2010 and 2011** at **555.68%**, followed by steady growth with a small rise of **1.11%** from **2018 to 2019**. Growth reached another peak in **2021** before declining in **2023**.
+This pattern indicates that EV adoption accelerated rapidly during the early stage, then experienced fluctuations likely due to market maturation and external factors.
+
 
 ---
 
