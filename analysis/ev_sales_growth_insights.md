@@ -1,6 +1,6 @@
 ## 📊 EV Sales Time Series Analysis (Global Focus)
 
-## 1. Global EV Sales (2010–2023)
+## 1. Global EV Sales Trend (2010–2023)
 
 📈 [Sales Trend Line](https://github.com/marcusasar/ev-sales-time-series-analysis/tree/875a70f1ebc647009ce68d86a62dfa99c3e2d584/images/question1/Sales%20Trend%20Line)
 
