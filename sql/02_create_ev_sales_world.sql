@@ -1,3 +1,4 @@
+-- create global ev sales table
 CREATE TABLE ev_sales_world AS
 SELECT *
 FROM ev_sales
