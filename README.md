@@ -17,26 +17,26 @@ To analyze global EV sales over time and answer key time series questions such a
 
 **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
 - **PostgreSQL:** The chosen database management system, ideal for handling the EV sales data.
-- **Excel:** For creating visuals.
+- **Excel:** For creating chart visuals.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 
 ## 🧪 How to Use
 
 1. Create the table using `01_create_table.sql`
-2. Insert data from `ev_sales_world.csv` using `02_insert_data.sql`
-3. Run the analysis queries in order from the `sql/` folder
+2. Create `ev_sales_world` table using `02_insert_data.sql`
+3. Run the analysis queries in order from the `project_sql_queries` folder
 4. Review findings in `analysis/ev_sales_growth_insights.md`
 
 
 ## 📈 Summary of Findings
 
-📝 *[Key takeaways ]*  
+📝 *Key takeaways*  
 
 - EV sales doubled between 2020 and 2021
 - The highest absolute growth occurred in 2021 (+3.5M units)
 - Total global sales surpassed 10M in 2022
-- The highest growth percentage occured between 2010-11 (555.4%)
+- The highest growth percentage occured between 2010-11 (+555.4%)
 
 
 ## 🤝 Acknowledgments
