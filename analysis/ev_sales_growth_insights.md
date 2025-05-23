@@ -40,5 +40,4 @@ Advancements in EV technology and infrastructure
 
 💡**Insight:**  
 No single year led in both metrics. While 2024 had the largest increase in total units sold, 2011 recorded the highest percentage growth in EV sales.
-![image](https://github.com/user-attachments/assets/97af2c85-2736-4af4-8232-a3498e971507)
 
