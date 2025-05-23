@@ -1,6 +1,6 @@
 ## 📊 EV Sales Time Series Analysis (Global Focus)
 
-## Annual Sales Performance
+## Global EV Sales (2010–2023)
 
 📊 ![Cumulative Sales by Year](charts/yearly-sales-bar.png)
 
