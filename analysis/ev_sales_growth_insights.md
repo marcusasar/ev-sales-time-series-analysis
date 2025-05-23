@@ -39,5 +39,10 @@ Advancements in EV technology and infrastructure
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
 💡**Insight:**  
-No single year led in both metrics. While 2024 had the largest increase in total units sold, 2011 recorded the highest percentage growth in EV sales.
+No single year led in both metrics. In terms of total units sold, 2024 experienced the largest increase, reflecting a continued expansion of the global EV market. However, 2011 saw the highest percentage growth, at over 550%, which was likely due to the market's early stage of adoption where even small increases in sales volume represented large relative growth.
 
+These spikes can be attributed to several factors:
+
+2011: Early adoption phase, with growing public awareness of environmental issues and the introduction of initial government incentives.
+
+2024: Mature market growth, driven by broader availability of EV models, improved battery technology, expanded charging infrastructure, and stronger regulatory support globally.
