@@ -2,7 +2,7 @@
 
 ## 1. Global EV Sales (2010–2023)
 
-📈 ![Cumulative Sales Line](https://github.com/marcusasar/ev-sales-time-series-analysis/blob/2d05e76228156b72d41245af5f15b3d7a6c866d6/images/question1/ev_sales_trend.png)
+📈 [Sales Trend Line](https://github.com/marcusasar/ev-sales-time-series-analysis/tree/875a70f1ebc647009ce68d86a62dfa99c3e2d584/images/question1/Sales%20Trend%20Line)
 
 💡**Insight:**  
 Electric vehicle (EV) sales have grown significantly over the past decade. Sales were minimal between 2010 and 2013, but starting in 2014, they began to rise steadily. A major surge occurred from 2020 onward, with sales peaking in 2023.
