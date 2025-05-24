@@ -30,13 +30,14 @@ This pattern indicates that EV adoption accelerated rapidly during the early sta
 📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
 
 💡**Insight:**  
-Electric vehicle (EV) sales have grown significantly over the past decade. Sales were minimal between 2010 and 2013, but starting in 2014, they began to rise steadily. A major surge occurred from 2020 onward, with sales peaking in 2023.
+Global electric vehicle (EV) sales have grown significantly over the past decade. Sales were minimal in the early 2010s but began increasing steadily from 2014 onward. In 2020, global EV sales crossed a major milestone of 10 million units cumulatively. By 2023, total cumulative EV sales had reached nearly 41 million units.
+This sharp increase in adoption over just three years — from 10M to 41M — highlights an accelerating global shift toward electric mobility.
 
-This pattern reflects a strong long-term trend in EV adoption, likely driven by:
+The rapid growth is likely driven by:
 
-- Increased public awareness of environmental concerns
+-rising environmental awareness, improvements in EV technology (such as battery range and charging infrastructure), and 
+favorable government policies, including incentives and emissions regulations.
 
-- Advancements in EV technology and infrastructure
 
 ---
 
