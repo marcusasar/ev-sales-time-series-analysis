@@ -35,7 +35,7 @@ This sharp increase in adoption over just three years — from 10M to 41M — hi
 
 The rapid growth is likely driven by:
 
--rising environmental awareness, improvements in EV technology (such as battery range and charging infrastructure), and 
+- Rising environmental awareness, improvements in EV technology (such as battery range and charging infrastructure), and 
 favorable government policies, including incentives and emissions regulations.
 
 
