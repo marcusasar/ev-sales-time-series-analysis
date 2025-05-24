@@ -27,7 +27,7 @@ This pattern indicates that EV adoption accelerated rapidly during the early sta
 
 ## 3. Cumulative Global EV Sales YTD
 
-📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
+📊 [`cumulative_ev_sales`](https://github.com/marcusasar/ev-sales-time-series-analysis/blob/ac0bf804831e257a4bcf6b3670bc9be7a7e3d387/chart_images/cumulative_ev_sales.png)
 
 💡**Insight:**  
 Global electric vehicle (EV) sales have grown significantly over the past decade. Sales were minimal in the early 2010s but began increasing steadily from 2014 onward. In 2020, global EV sales crossed a major milestone of 10 million units cumulatively. By 2023, total cumulative EV sales had reached nearly 41 million units.
