@@ -16,7 +16,7 @@ This pattern reflects a strong long-term trend in EV adoption, likely driven by:
 
 ## 2. Global EV Sales Growth %
 
-📊 ![Monthly Sales Bar Chart](charts/monthly-sales-bars.png)
+📈 [`Annual_Growth_Rate`](https://github.com/marcusasar/ev-sales-time-series-analysis/blob/9412585711e0921d75cc5e958a5e63327ba722d9/chart_images/Annual_Growth_Rate.png)
 
 💡**Insight:**  
 The annual growth rate of global electric vehicle (EV) sales peaked dramatically between **2010 and 2011** at **555.68%**, followed by steady growth with a small rise of **1.11%** from **2018 to 2019**. Growth reached another peak in **2021** before declining in **2023**.
