@@ -42,7 +42,7 @@ This pattern reflects a strong long-term trend in EV adoption, likely driven by:
 
 ## 4. EV Sales Peak Years by Units and Growth Rate %
 
-📊 ![`EV_Sales_Units_Growth`](https://github.com/marcusasar/ev-sales-time-series-analysis/blob/ea337b3c6c48bac2e989455c9a8aafcc22e6edfc/chart_images/ev_sales_units_growth_rate.png)
+📈 [`EV_Sales_Units_Growth`](https://github.com/marcusasar/ev-sales-time-series-analysis/blob/ea337b3c6c48bac2e989455c9a8aafcc22e6edfc/chart_images/ev_sales_units_growth_rate.png)
 
 💡**Insight:**  
 No single year led in both metrics. In terms of total units sold, 2023 experienced the largest increase, reflecting a continued expansion of the global EV market. However, 2011 saw the highest percentage growth, at over 550%, which was likely due to the market's early stage of adoption where even small increases in sales volume represented large relative growth.
