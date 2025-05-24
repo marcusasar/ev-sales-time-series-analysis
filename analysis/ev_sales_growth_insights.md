@@ -34,9 +34,9 @@ Electric vehicle (EV) sales have grown significantly over the past decade. Sales
 
 This pattern reflects a strong long-term trend in EV adoption, likely driven by:
 
--Increased public awareness of environmental concerns
+- Increased public awareness of environmental concerns
 
--Advancements in EV technology and infrastructure
+- Advancements in EV technology and infrastructure
 
 ---
 
