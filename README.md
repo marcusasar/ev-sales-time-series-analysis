@@ -21,13 +21,20 @@ To analyze global EV sales over time and answer key time series questions such a
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 
-## 🧪 How to Use
+## 🧪 How to Use This Project
 
-1. Create the table using `01_create_table.sql`
-2. Create `ev_sales_world` table using `02_create_ev_sales.sql`
-3. Run the analysis queries in order from the `project_sql_queries` folder
-4. Use the data in Dataset `ev_sales_date.csv`
-5. Review findings in `analysis/ev_sales_growth_insights.md`
+1. **Create the Database and Tables**
+   - Run `01_create_table.sql` to create the base tables.
+   - Then run `02_create_ev_sales.sql` to create the `ev_sales_world` table.
+
+2. **Load the Dataset**
+   - Use the provided `ev_sales_data.csv` to populate the tables.
+
+3. **Run Analysis Queries**
+   - Execute the queries in the `project_sql_queries/` folder in order.
+
+4. **View the Insights**
+   - Read the findings and interpretations in `analysis/ev_sales_growth_insights.md`.
 
 
 ## 📈 Summary of Findings
