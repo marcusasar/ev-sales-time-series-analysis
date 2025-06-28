@@ -24,7 +24,7 @@ To analyze global EV sales over time and answer key time series questions such a
 ## 🧪 How to Use This Project
 
 1. **Create the Database and Tables**
-   - Run `01_create_table.sql` to create the base tables.
+   - Run [01_create_table.sql](./sql/01_create_table.sql) to create the base tables.
    - Then run `02_create_ev_sales.sql` to create the `ev_sales_world` table.
 
 2. **Load the Dataset**
