@@ -25,16 +25,16 @@ To analyze global EV sales over time and answer key time series questions such a
 
 1. **Create the Database and Tables**
    - Run [01_create_table.sql](./sql/01_create_table.sql) to create the base tables.
-   - Then run `02_create_ev_sales.sql` to create the `ev_sales_world` table.
+   - Then run [02_create_ev_sales.sql](./sql/02_create_ev_sales.sql) to create the `ev_sales_world` table.
 
 2. **Load the Dataset**
-   - Use the provided `ev_sales_data.csv` to populate the tables.
+   - 📂 Load the dataset: [ev_sales_data.csv](./dataset/ev_sales_data.csv)
 
 3. **Run Analysis Queries**
-   - Execute the queries in the `project_sql_queries/` folder in order.
+   - Execute the queries in the [project_sql_queries](./project_sql_queries/) folder in order.
 
 4. **View the Insights**
-   - Read the findings and interpretations in `analysis/ev_sales_growth_insights.md`.
+   - Read the findings and interpretations in [ev_sales_growth_insights.md](./analysis/ev_sales_growth_insights.md).
 
 
 ## 📈 Summary of Findings
