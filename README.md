@@ -29,7 +29,7 @@ To analyze global EV sales over time and answer key time series questions such a
 2. **Load the dataset: [ev_sales_data.csv](./Dataset/ev_sales_data.csv)**  
    Import the CSV data into the base table created in step 1.
 
-3. **Run [02_create_ev_sales.sql](./sql/02_create_ev_sales.sql)**  
+3. **Run [02_create_ev_sales.sql](./sql/02_create_ev_sales_world.sql)**  
    This script creates the `ev_sales_world` table by transforming and extracting relevant information from the base table for analysis.
 
 ---
