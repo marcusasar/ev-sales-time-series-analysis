@@ -1,3 +1,6 @@
+-- Identify the years with the largest surges in global EV sales.
+-- This query calculates both the absolute increase and the percentage growth from the previous year.
+-- It helps pinpoint years with major jumps in adoption and supports investigation into what drove those spikes.
 
 SELECT
 	year,
