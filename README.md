@@ -25,27 +25,27 @@ To analyze global EV sales over time and answer key time series questions such a
 
 ### 📁 1. Set Up the Database and Tables
 
-1. **Run [`01_create_table.sql`](./01_create_table.sql)**  
+1. **Run [01_create_table.sql](./sql/01_create_table.sql)**  
    This script creates the initial base table where the raw EV sales data will be stored.
 
-2. **Load the dataset: [`ev_sales_data.csv`](./dataset/ev_sales_data.csv)**  
+2. **Load the dataset: [ev_sales_data.csv](./dataset/ev_sales_data.csv)**  
    Import the CSV data into the base table created in step 1.
 
-3. **Run [`02_create_ev_sales.sql`](./02_create_ev_sales.sql)**  
+3. **Run [02_create_ev_sales.sql](./sql/02_create_ev_sales.sql)**  
    This script creates the `ev_sales_world` table by transforming and extracting relevant information from the base table for analysis.
 
 ---
 
 ### 📊 2. Run Analysis Queries
 
-4. **Execute the queries in the [`project_sql_queries`](./project_sql_queries/) folder in order.**  
+4. **Execute the queries in the [project_sql_queries](./project_sql_queries/) folder in order.**  
    These queries explore trends, growth rates, and other insights about EV sales.
 
 ---
 
 ### 📈 3. View the Insights
 
-5. **Read the findings in [`ev_sales_growth_insights.md`](./analysis/ev_sales_growth_insights.md)**  
+5. **Read the findings in [ev_sales_growth_insights.md](./analysis/ev_sales_growth_insights.md).**  
    This file summarizes key takeaways and interpretations from the analysis.
 
 ## 📈 Summary of Findings
