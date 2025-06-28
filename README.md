@@ -24,14 +24,14 @@ To analyze global EV sales over time and answer key time series questions such a
 ## 🧪 How to Use This Project
 ### 📁 1. Set Up the Database and Tables
 
-**Run [`01_create_table.sql`](./sql/01_create_table.sql)**  
-This script creates the initial base table where the raw EV sales data will be stored.
+1. **Run [`01_create_table.sql`](./sql/01_create_table.sql)**  
+   - This script creates the initial base table where the raw EV sales data will be stored.
 
-**Load the dataset: [`ev_sales_data.csv`](./dataset/ev_sales_data.csv)**  
-Import the CSV data into the base table created in step 1.
+2. **Load the dataset: [`ev_sales_data.csv`](./dataset/ev_sales_data.csv)**  
+   - Import the CSV data into the base table created in step 1.
 
-**Run [`02_create_ev_sales.sql`](./sql/02_create_ev_sales.sql)**  
-This script creates the `ev_sales_world` table by transforming and extracting relevant information from the base table for analysis.
+3. **Run [`02_create_ev_sales.sql`](./sql/02_create_ev_sales.sql)**  
+   - This script creates the `ev_sales_world` table by transforming and extracting relevant information from the base table for analysis.
 
 3. **Run Analysis Queries**
    - Execute the queries in the [project_sql_queries](./project_sql_queries/) folder in order.
